@@ -1,0 +1,65 @@
+
+body {
+    background-color: #f5fbfd;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navbar {
+    background-color: #00A172;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navbar-brand {
+    color: #024A85;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: #FFDA5D;
+}
+
+.hero-image {
+    width: 100%;
+}
+
+.container {
+    color: #024A85;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1, h2 {
+    color: #024A85;
+}
+
+footer {
+    background-color: #024A85;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 25px;
+}
+
+footer p {
+    margin: 0;
+}
+
+/* .hero-content {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #024A85;
+}
+
+.hero-image-container {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://images.squarespace-cdn.com/content/v1/664c7ae50eea9c731b37e817/eb98ffc0-3110-41ac-af77-7139e634afea/OBMC+Intermediate+classroom+3.jpg");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+} */
